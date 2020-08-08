@@ -8,7 +8,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ pip2 install requests
+$ pip install requests
 
 $ git clone https://github.com/MRV1N5/spammer
 
